@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env
+
+# Configuration files and local shortcuts created during usage
+config.json
+*.lnk
+Avvia_SaveManager.bat
+
+# Dummy folders created by tests
+DummyGameSaves/
+DummyBackups/
+
+# Local backup directories
+MyBackup/
