@@ -51,6 +51,10 @@ If you want to compile the project as a portable `.exe` executable (so you can u
 ### 📝 Notes
 The application creates and uses a local file (`config.json`) in its root to remember the configured paths. Do not upload this file online, it is already ignored via `.gitignore` along with `build/`, `dist/`, and other local folders.
 
+### ☕ Support
+If you find this application useful, consider buying me a coffee!  
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/odo1969)
+
 ---
 
 <a id="italiano"></a>
@@ -99,3 +103,7 @@ Se desideri compilare il progetto come eseguibile `.exe` portatile (così potrai
 
 ### 📝 Note
 L'applicazione crea e utilizza un file locale (`config.json`) nella sua stessa root per ricordarsi i percorsi configurati. Non caricare questo file online, è già ignorato tramite `.gitignore` insieme a `build/`, `dist/` e altre cartelle locali.
+
+### ☕ Supporto
+Se trovi utile questa applicazione, offrimi un caffè!  
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/odo1969)
